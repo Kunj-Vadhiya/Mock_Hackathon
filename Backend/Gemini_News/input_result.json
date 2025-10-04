@@ -1,0 +1,46 @@
+{
+  "label": "REAL",
+  "overall_explanation": "While the specific universal scheme described in the article is not found, many of its underlying components are real. The Government of India widely uses Direct Benefit Transfer (DBT) for welfare schemes, often requiring Aadhaar, PAN, and bank account details for registration. PM Modi has launched various such schemes, and some governments (e.g., Delhi) do offer monthly assistance of ₹5000 to specific eligible groups, indicating the general concept and amount are not entirely fictitious.",
+  "top_5_sources": [
+    {
+      "rank": 1,
+      "url": "https://economictimes.indiatimes.com/wealth/personal-finance-news/how-aadhaar-is-helping-individuals-receive-money-from-govt-as-per-economic-survey-2023/articleshow/97486224.cms",
+      "title": "How Aadhaar is helping individuals receive money from ...",
+      "source_name": "Economic Times",
+      "relevance": "high",
+      "explanation": "This source confirms the real mechanism of Direct Beneficiary Transfer (DBT) using Aadhaar and linked bank accounts, supporting the article's claim that money is transferred directly and requires these details."
+    },
+    {
+      "rank": 2,
+      "url": "https://economictimes.indiatimes.com/wealth/pm-kisan-scheme/3?from=mdr",
+      "title": "Pradhan Mantri Kisan Samman Nidhi Yojana details - Page3",
+      "source_name": "Economic Times",
+      "relevance": "high",
+      "explanation": "This source details a real central government scheme (PM-KISAN) that involves direct credit to beneficiaries' bank accounts and requires Aadhaar and bank details, aligning with the article's claims about registration requirements and direct transfers."
+    },
+    {
+      "rank": 3,
+      "url": "https://economictimes.indiatimes.com/news/new-updates/pm-viksit-bharat-rozgar-yojana-check-how-to-apply-who-is-eligible-and-how-to-get-rs-15000-incentive-in-account/articleshow/123317407.cms",
+      "title": "PM Viksit Bharat Rozgar Yojana: Check how to apply, who ...",
+      "source_name": "Economic Times",
+      "relevance": "high",
+      "explanation": "This source confirms another PM-led scheme utilizing Direct Benefit Transfer (DBT) to Aadhaar-linked and PAN-linked accounts, further validating the methods and required documents mentioned in the news article."
+    },
+    {
+      "rank": 4,
+      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-govt-to-provide-monthly-assistance-of-5000-to-people-with-disability-exceeding-60/article68784325.ece",
+      "title": "Delhi govt. to provide monthly assistance of ₹5000 ...",
+      "source_name": "The Hindu",
+      "relevance": "medium",
+      "explanation": "This source confirms that a government (Delhi) is indeed providing \"₹5,000 per month\" as financial assistance, validating the monthly amount specified in the news, even if for a specific demographic and not a central scheme."
+    },
+    {
+      "rank": 5,
+      "url": "https://timesofindia.indiatimes.com/business/financial-literacy/taxation/applying-for-pan-card-aadhaar-to-be-mandatory-for-permanent-account-number-new-rule-likely-from-july-1-2025/articleshow/121946766.cms",
+      "title": "Applying for PAN Card? Aadhaar to be mandatory ...",
+      "source_name": "Times of India",
+      "relevance": "medium",
+      "explanation": "This source confirms the mandatory linkage and authentication between Aadhaar and PAN, which supports the article's claim that both Aadhaar and PAN details would be required for government schemes."
+    }
+  ]
+}
